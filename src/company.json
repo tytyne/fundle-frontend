@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "Simba Super market ",
+      "link": "https://simbasupermarket.rw/",
+      "location":"Rwanda,Kenya,Uganda",
+      "domain": "supermarkets"
+    
+    },
+    {
+      "id": 2,
+      "name": "CNBA",
+      "link": "https://rw.ncbagroup.com/",
+      "location":"Rwanda,Kenya,Uganda",
+      "domain": "Bank Account"
+     
+      },
+   
+    
+    {
+      "id": 3,
+      "name": "Uber business",
+      "link": "https://www.uber.com/tz/en/",
+      "location":"Rwanda,Kenya,Uganda",
+      "domain": "Transport"
+     
+    },
+    
+    {
+      "id": 4,
+      "name": "Tap&Go",
+      "link": "https://www.do4africa.org/projects/smart-economie/tap-go/",
+      "location":"Rwanda,Kenya,Uganda",
+      "domain": "Transport"
+      
+    },
+    {
+      "id": 5,
+      "name": "Yego Cabs",
+      "link": "https://yegomoto.com/",
+      "location":"Rwanda,Kenya,Uganda",
+      "domain": "Transport"
+     
+    },
+    
+    {
+      "id": 6,
+      "name": "Remid Rwanda",
+      "link": "https://www.worldremit.com/en/rwanda",
+      "location":"Rwanda,Kenya,Uganda",
+      "domain": "Money Transfer"
+      
+    },
+    {
+      "id": 7,
+      "name": " MTN mobile Money",
+      "link": "https://www.mtn.co.rw/momo/",
+      "location":"Rwanda,Kenya,Uganda",
+      "domain": "Money Transfer"
+      
+    },
+    {
+      "id": 8,
+      "name": " Western Union",
+      "link": "https://www.westernunion.com/us/en/home.html",
+      "location":"Rwanda,Kenya,Uganda",
+      "domain": "Money Transfer"
+      
+    },
+    {
+      "id": 9,
+      "name": "KCB",
+      "link": "https://rw.kcbgroup.com",
+      "location":"Rwanda,Kenya,Uganda",
+      "domain": "Bank Account"
+     
+    },
+    {
+      "id": 10,
+      "name": "Equity ",
+      "link": "https://equitygroupholdings.com",
+      "location":"Rwanda,Kenya,Uganda",
+      "domain": "Bank Account"
+      
+    }
+  ]
